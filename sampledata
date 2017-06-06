@@ -1,0 +1,34 @@
+{
+"name": "titos tacos",
+"foodtype": "mexican",
+"rating" : 3,
+"website" : "http://www.titostacos.com"
+"avgcost":5.99,
+
+}
+
+{
+"name": "pams pancakes",
+"foodtype": "breakfast",
+"rating" : 3,
+"website" : "http://www.pamspancakes.com"
+"avgcost":9.99,
+}
+
+{
+"name": "stans shakes",
+"foodtype": "smoothies",
+"rating" : 3,
+"website" : "http://www.stansshakes.com"
+"avgcost":2.99,
+
+}
+
+{
+"name": "dons dogs",
+"foodtype": "hot dogs",
+"rating" : 3,
+"website" : "http://www.donsdogs.com"
+"avgcost":12.99,
+
+}
