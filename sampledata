@@ -1,34 +1,1934 @@
-{
-"name": "titos tacos",
-"foodtype": "mexican",
-"rating" : 3,
-"website" : "http://www.titostacos.com"
-"avgcost":5.99,
-
-}
-
-{
-"name": "pams pancakes",
-"foodtype": "breakfast",
-"rating" : 3,
-"website" : "http://www.pamspancakes.com"
-"avgcost":9.99,
-}
-
-{
-"name": "stans shakes",
-"foodtype": "smoothies",
-"rating" : 3,
-"website" : "http://www.stansshakes.com"
-"avgcost":2.99,
-
-}
-
-{
-"name": "dons dogs",
-"foodtype": "hot dogs",
-"rating" : 3,
-"website" : "http://www.donsdogs.com"
-"avgcost":12.99,
-
-}
+[
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Manager",
+    "gender": "Trans"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Junior",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "DevOps/Optimization/Infrastructure",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Other",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Other",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "DevOps/Optimization/Infrastructure",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Other",
+    "job_category": "Executive/Owner",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Male"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Junior",
+    "gender": "Other"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Other"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Other"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "DevOps/Optimization/Infrastructure",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Male"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Junior",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Male"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "African American",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Pacific Islander",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Trans"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Junior",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Other",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Asian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Male"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Trans"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Male"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Male"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Male"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Male"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "DevOps/Optimization/Infrastructure",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "African American",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Asian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Asian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Native American",
+    "job_category": "Junior",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Trans"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Asian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Asian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "<18",
+    "ethnicity": "Other",
+    "job_category": "Student",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Male"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "African American",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Other"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Asian",
+    "job_category": "Student",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Unemployed",
+    "gender": "Male"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Trans"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "DevOps/Optimization/Infrastructure",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Asian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "HR/Recruiting",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Not Technical",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "UX/Design",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": ">45",
+    "ethnicity": "Caucasian",
+    "job_category": "Executive/Owner",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Latino/Hispanic",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "African American",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Prefer not to answer"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Customer Service/Support",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "18 - 25",
+    "ethnicity": "Caucasian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Other",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Lead",
+    "gender": "Female"
+  },
+  {
+    "age_range": "36 - 45",
+    "ethnicity": "Caucasian",
+    "job_category": "Manager",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Asian",
+    "job_category": "Programmer/Engineer/Developer",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Other",
+    "job_category": "Marketing/Sales",
+    "gender": "Female"
+  },
+  {
+    "age_range": "26 - 35",
+    "ethnicity": "Caucasian",
+    "job_category": "Student",
+    "gender": "Female"
+  }
+]
